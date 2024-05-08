@@ -5,6 +5,7 @@ Ready file for upload to ESP8266  (Tasmota v13.04)  - [firmware.bin](https://git
 Upload used [Tasmotizer](https://github.com/tasmota/tasmotizer)
 
 Tunning pin I2C Tasmota
+
    ![plot](https://github.com/1638NimtE/Tasmota_AHT20/blob/main/AHT20_I2C_pin_Tasmota.png)
     
 ##***Changed for compilate firmware.bin:***
