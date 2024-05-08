@@ -19,9 +19,7 @@ Deactivate line (sensors supports 0x38):
 Activate line:
     
     614 BMP180/280
-    
     690 AHT1x //The comment says only adress 0x38 but basicaly it supports 0x38 and 0x39 but for now only one sensor at a time.
-    
     691 AHT2x 
   ![plot](https://github.com/1638NimtE/Tasmota_AHT20/blob/main/PICS/01_my_user_config.h%20_active_%20AHT10%20AHT20.PNG)
   
