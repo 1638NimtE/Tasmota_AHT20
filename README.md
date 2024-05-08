@@ -7,6 +7,7 @@ Upload used [Tasmotizer](https://github.com/tasmota/tasmotizer)
 Tunning pin I2C Tasmota
 
     AHT20_I2C_pin_Tasmota.png
+   ![plot](https://github.com/1638NimtE/Tasmota_AHT20/blob/main/AHT20_I2C_pin_Tasmota.png)
     
 ##***Changed for compilate firmware.bin:***
 
