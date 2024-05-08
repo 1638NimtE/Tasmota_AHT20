@@ -5,7 +5,7 @@
 
 **Tunning pin  ESP8266 I2C Tasmota for supports AHT10 & AHT20 **
 
-   ![plot](https://github.com/1638NimtE/Tasmota_AHT20/blob/main/AHT20_I2C_pin_Tasmota.png)
+   ![plot](https://github.com/1638NimtE/Tasmota_AHT20/blob/main/PICS/AHT20_I2C_pin_Tasmota.png)
     
 ##Changed for compilate firmware.bin:
 
@@ -23,11 +23,11 @@ Activate line:
     690 AHT1x //The comment says only adress 0x38 but basicaly it supports 0x38 and 0x39 but for now only one sensor at a time.
     
     691 AHT2x 
-  ![plot](https://github.com/1638NimtE/Tasmota_AHT20/blob/main/01_my_user_config.h%20_active_%20AHT10%20AHT20.PNG)
+  ![plot](https://github.com/1638NimtE/Tasmota_AHT20/blob/main/PICS/01_my_user_config.h%20_active_%20AHT10%20AHT20.PNG)
   
 ###Changed in file - xsns_63_aht1x.ino
 
     in line 64 address B1 -> BE :
 
     #define AHTX_CMD     0xB1  ->  #define AHTX_CMD     0xBE
-   ![plot](https://github.com/1638NimtE/Tasmota_AHT20/blob/main/02_%20xsns_63_aht1x_%20change%20address%20B1%20to%20BE.PNG)
+   ![plot](https://github.com/1638NimtE/Tasmota_AHT20/blob/main/PICS/02_%20xsns_63_aht1x_%20change%20address%20B1%20to%20BE.PNG)
