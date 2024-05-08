@@ -6,13 +6,13 @@ Changed for compilate .bin:
 
 Changed in file - my_user_config.h (from Tasmota v13.04 Developer)
     
-    Deactivate line:    
+Deactivate line:    
     
     617 // VEML6070 ;     
     
     668 // ADE7953
     
-    Activate line:
+Activate line:
     
     614 BMP180/280
     
