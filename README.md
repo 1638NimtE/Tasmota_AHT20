@@ -1,4 +1,4 @@
-#**Add sensors BMP180 and AHT10 AHT20 to Tasmota v 13.04**
+#**Add sensors AHT10 & AHT20 to Tasmota**
 
     Ready file for upload to ESP8266  (Tasmota v13.04)  - firmware.bin
 
