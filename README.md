@@ -13,8 +13,8 @@
     
 Deactivate line (sensors supports 0x38):    
     
-    //  617 // VEML6070    
-    //  668 // ADE7953
+    617 // VEML6070    
+    668 // ADE7953
  
 Activate line:
     
