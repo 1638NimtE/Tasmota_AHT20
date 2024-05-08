@@ -1,9 +1,7 @@
 Add support Tasmota v 13/04  sensors BMP180 and AHT10 AHT20
 
 Changed in file - my_user_config.h (from Tasmota v13.04 Developer)
-Deactivate line:
-617 // VEML6070
-668 // ADE7953
+Deactivate line:     617 // VEML6070         668 // ADE7953
 
 Activate line:
 
