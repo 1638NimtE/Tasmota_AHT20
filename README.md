@@ -8,7 +8,7 @@ Tunning pin I2C Tasmota
 
     AHT20_I2C_pin_Tasmota.png
     
-##*Changed for compilate firmware.bin:*
+##***Changed for compilate firmware.bin:***
 
 ###Changed in file - my_user_config.h (from Tasmota v13.04 Developer)
     
