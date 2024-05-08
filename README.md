@@ -14,9 +14,8 @@ Tunning pin I2C Tasmota
     
 Deactivate line:    
     
-    617 // VEML6070 ;     
-    
-    668 // ADE7953
+    //  617 // VEML6070 ;     
+    //  668 // ADE7953
     
 Activate line:
     
