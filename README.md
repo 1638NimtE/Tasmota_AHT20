@@ -1,7 +1,7 @@
 # Add sensors AHT10 & AHT20 to Tasmota
 
 1. Ready file for upload to ESP8266  (Tasmota v13.04)  - [firmware.bin](https://github.com/1638NimtE/Tasmota_AHT20/blob/main/firmware.bin)
-2. Upload used [Tasmotizer](https://github.com/tasmota/tasmotizer)
+2. To load into the board, use the [Tasmotizer](https://github.com/tasmota/tasmotizer)
 
 **Tunning pin  ESP8266 I2C Tasmota for supports AHT10 & AHT20 **
 
