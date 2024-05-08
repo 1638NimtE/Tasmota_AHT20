@@ -1,4 +1,4 @@
-*Add sensors AHT10 & AHT20 to Tasmota*
+***Add sensors AHT10 & AHT20 to Tasmota***
 
 Ready file for upload to ESP8266  (Tasmota v13.04)  - [firmware.bin](https://github.com/1638NimtE/Tasmota_AHT20/blob/main/firmware.bin)
 
