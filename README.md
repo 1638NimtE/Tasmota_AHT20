@@ -1,16 +1,16 @@
-**Add sensors BMP180 and AHT10 AHT20 to Tasmota v 13.04**
+#**Add sensors BMP180 and AHT10 AHT20 to Tasmota v 13.04**
 
     Ready file for upload to ESP8266  (Tasmota v13.04)  - firmware.bin
 
-Upload used Tasmotizer
+Upload used [Tasmotizer](https://github.com/tasmota/tasmotizer)
 
 Tunning pin I2C Tasmota
 
     AHT20_I2C_pin_Tasmota.png
     
-*Changed for compilate firmware.bin:*
+##*Changed for compilate firmware.bin:*
 
-Changed in file - my_user_config.h (from Tasmota v13.04 Developer)
+###Changed in file - my_user_config.h (from Tasmota v13.04 Developer)
     
 Deactivate line:    
     
@@ -26,7 +26,7 @@ Activate line:
     
     691 AHT2x 
 
-Changed in file - xsns_63_aht1x.ino
+###Changed in file - xsns_63_aht1x.ino
 
     in line 64 address B1 -> BE :
 
