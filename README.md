@@ -6,6 +6,7 @@ Deactivate line:
 668 // ADE7953
 
 Activate line:
+
 614 BMP180/280
 690 AHT1x //The comment says only adress 0x38 but basicaly it supports 0x38 and 0x39 but for now only one sensor at a time.
 691 AHT2x 
